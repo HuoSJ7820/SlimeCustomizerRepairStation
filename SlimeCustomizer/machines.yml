@@ -1,0 +1,520 @@
+WJ114514:
+  category: scxfz
+  machine-name: '&x&7&F&F&F&D&4无尽扩展修复站'
+  machine-lore:
+  - '&c修复该附属部分物品无法自动化合成BUG'
+  - '&c修复该附属部分物品无法使用乱序手动增强工作台BUG'
+  block-type: CARTOGRAPHY_TABLE
+  progress-bar-item: PAPER
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: DIAMOND
+      amount: 1
+    '2':
+      type: VANILLA
+      id: DIAMOND
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: VANILLA
+      id: OAK_LOG
+      amount: 1
+    '5':
+      type: VANILLA
+      id: OAK_LOG
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: VANILLA
+      id: OAK_LOG
+      amount: 1
+    '8':
+      type: VANILLA
+      id: OAK_LOG
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WUJINTUDOU
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WUJINTUDOU
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJKPJWZDWP
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJKPJWZDWP
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: KPKJ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: KPKJ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: XUKK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: XUKK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJKPHX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJKPHX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJXKD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJXKD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJKPJJHHX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJKPJJHHX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CJWJTD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CJWJTD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WUJINCL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WUJINCL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '11':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CZK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CZK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '12':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CZDXH
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CZDXH
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '13':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CZDXL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CZDXL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '14':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJJS
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJJS
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '15':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJYTHX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJYTHX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '16':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: WJCZK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: WJCZK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+TLXFZ:
+  category: scxfz
+  machine-name: '&x&C&D&5&C&5&C贪婪修复站'
+  machine-lore:
+  - '&c修复该附属部分物品无法自动化合成BUG'
+  - '&c修复该附属部分物品无法使用乱序手动增强工作台BUG'
+  block-type: CARTOGRAPHY_TABLE
+  progress-bar-item: PAPER
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: DIAMOND
+      amount: 1
+    '2':
+      type: VANILLA
+      id: DIAMOND
+      amount: 1
+    '3':
+      type: NONE
+      id: N/A
+      amount: 1
+    '4':
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    '5':
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: NONE
+      id: N/A
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK6
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK6
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK7
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK7
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK8
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK8
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK9
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK9
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TANLAN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TANLAN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
